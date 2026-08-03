@@ -180,3 +180,4 @@ __pycache__/
 .venv/
 
 prompt_executions/
+.planning/patterns/
